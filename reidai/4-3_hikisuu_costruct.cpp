@@ -1,3 +1,5 @@
+//例題4－3のデフォルト引数付きコンストラクタ
+
 #include <iostream>
 #include <cstring>
 
